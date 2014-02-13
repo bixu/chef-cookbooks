@@ -6,7 +6,7 @@ Simple, single dependency, SMF LWRP
 Requirements
 ============
 
-1. An [Illumos][http://illumos.org] based Operating System
+1. An [Illumos](http://illumos.org) based Operating System
 2. The [npm](../npm) cookbook
 3. Node.js installed
 
