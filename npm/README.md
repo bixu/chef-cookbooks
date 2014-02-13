@@ -6,8 +6,10 @@ Simple, no dependency, [node.js][2] package manager LWRP
 Requirements
 ============
 
-[node.js][2] to already be installed.  [Voxer][3] runs on [SmartOS][0], so node is
-already installed on every machine we have, so this cookbook does
+1. [node.js][2] to already be installed.
+2. 
+3. [Voxer][3] runs on [SmartOS][0] so node is
+already installed on every machine we have.  Because of this, this cookbook does
 not depend on it directly.
 
 Attributes
@@ -39,7 +41,7 @@ The version number is optional, and if omitted, will instruct this cookbook to j
 ensure the package is installed at any version
 
 ``` ruby
-npm_package `http-host-proxy'
+npm_package 'http-host-proxy'
 ```
 
 This is equivalent to running
