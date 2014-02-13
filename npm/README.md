@@ -7,8 +7,8 @@ Requirements
 ============
 
 1. [node.js][2] to already be installed.
-2. 
-3. [Voxer][3] runs on [SmartOS][0] so node is
+
+[Voxer][3] runs on [SmartOS][0] so node is
 already installed on every machine we have.  Because of this, this cookbook does
 not depend on it directly.
 
