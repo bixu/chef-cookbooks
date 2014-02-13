@@ -27,7 +27,7 @@ default[:smf][:json_dir] = "#{default[:smf][:manifest_dir]}/smfgen"
 Usage
 =====
 
-```
+``` ruby
 include_recipe 'smf'
 
 # Create a basic service
