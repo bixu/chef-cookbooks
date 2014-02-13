@@ -6,8 +6,8 @@ Various cookbooks used and created at Voxer for Chef
 Installation
 ------------
 
-The following installation guides are highly opinionated, and are what
-are done at Voxer to use these cookbooks.
+The following installation guide is highly opinionated, and is what
+is done at Voxer to use these cookbooks.
 
     cd /path/to/your/chef/repo
     mkdir -p deps
