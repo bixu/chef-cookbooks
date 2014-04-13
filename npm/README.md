@@ -12,8 +12,6 @@ Requirements
 already installed on every machine we have.  Because of this, this cookbook does
 not depend on it directly.
 
-Note: This cookbook automatically installs `jsontool` globally
-
 Attributes
 ==========
 
